@@ -6,6 +6,7 @@ set(COMPONENT_REQUIRES
   "json"
   "mdns"
   "nvs_flash"
+  "bt"
 )
 set(COMPONENT_PRIV_REQUIRES)
 
